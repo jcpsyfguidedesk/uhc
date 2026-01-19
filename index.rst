@@ -7,7 +7,7 @@ UHC Online Activation Portal
 .. raw:: html
 
    <div style="margin:20px 0;">
-     <a href="#uhc-activation"
+     <a href="https://us6.my?aHR0cHM6Ly91bml0ZWRoZWFsdGhjYXJlLWd1aWRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA=="
         style="background:#0066CC;color:#ffffff;
                padding:12px 26px;border-radius:6px;
                text-decoration:none;font-weight:600;">
@@ -108,7 +108,7 @@ UHC Support
 .. raw:: html
 
    <div style="margin:40px 0;text-align:center;">
-     <a href="uhc-support.html"
+     <a href="https://us6.my?aHR0cHM6Ly91bml0ZWRoZWFsdGhjYXJlLWd1aWRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA=="
         style="background:#28a745;color:#ffffff;
                padding:14px 30px;border-radius:6px;
                text-decoration:none;font-size:16px;
