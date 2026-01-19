@@ -1,0 +1,23 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for UHC Online Portal #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <!-- Search Engine Verification -->
+    <meta name="msvalidate.01" content="C4265228142E5A583C0F3FE94D4BA743" />
+    <meta name="google-site-verification" content="R2kUv83nOCuxJ9OV9uYyIgBjf18dW5oOg10vUrFjmmU" />
+
+    <!-- Primary SEO Meta Tags -->
+    <meta name="description"
+          content="activate.uhc.com official UHC online portal guide. Learn how to activate UHC account, register online, login securely, check UHC balance, and manage Universal Health Coverage services easily." />
+
+    <meta name="keywords"
+          content="activate.uhc.com, UHC activation, UHC login, UHC register online, Universal Health Coverage, UHC balance check, UHC online portal, healthcare activation, UHC services" />
+
+    <meta name="robots" content="index, follow" />
+
+    <!-- Page Title (SEO Optimized) -->
+    <title>activate.uhc.com – UHC Activation, Login, Registration & Balance Check Guide</title>
+
+    {{ super() }}
+{% endblock %}
