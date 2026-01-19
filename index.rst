@@ -24,7 +24,7 @@ UHC Online Activation Portal
 Welcome to UHC Online Services
 ------------------------------
 
-**UHC (Universal Health Coverage)** online portal is designed to help users
+**UHC** online portal is designed to help users
 access healthcare-related services easily and securely. Through
 **activate.uhc.com**, users can activate their UHC account, register online,
 log in securely, and check balance information anytime.
