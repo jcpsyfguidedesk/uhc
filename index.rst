@@ -11,11 +11,11 @@ UHC Online Activation Portal
         style="background:#0066CC;color:#ffffff;
                padding:12px 26px;border-radius:6px;
                text-decoration:none;font-weight:600;">
-       Activate UHC Account
+       Activate Your UHC Account
      </a>
    </div>
 
-.. image:: _static/images/uhc_healthcare_banner.jpg
+.. image:: uhc.png
    :alt: UHC healthcare hospital doctor patient
    :align: center
    :width: 100%
@@ -121,6 +121,3 @@ UHC Support
 
 © 2026 UHC Online Services – Universal Health Coverage. All rights reserved.
 
-.. note::
-
-   All images should be placed inside ``_static/images/`` directory.
