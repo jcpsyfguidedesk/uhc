@@ -117,7 +117,6 @@ UHC Support
      </a>
    </div>
 
----
 
 © 2026 UHC Online Services – Universal Health Coverage. All rights reserved.
 
